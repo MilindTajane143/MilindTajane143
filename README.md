@@ -1,14 +1,9 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════
-     ANIMATED BANNER  —  auto dark / light switch
-════════════════════════════════════════════════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="./milind-banner.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="./milind-banner-light.svg?v=2">
-  <img src="./milind-banner.svg?v=2"
-       alt="Milind Tajane — Fullstack Web Developer"
-       width="100%"/>
+  <img src="./milind-banner.svg?v=2" alt="Milind Tajane — Fullstack Web Developer" width="100%"/>
 </picture>
 
 </div>
@@ -32,12 +27,7 @@
 <tr>
 <td width="36%" align="center" valign="middle">
 
-<!-- ═══════════════════════════════
-     SWINGING LANYARD ID CARD
-════════════════════════════════ -->
-<img src="./milind-lanyard.svg?v=2"
-     alt="Milind Tajane ID Badge"
-     width="280"/>
+<img src="./milind-lanyard.svg?v=2" alt="Milind Tajane ID Badge" width="280"/>
 
 </td>
 <td width="64%" valign="top" style="padding-left:24px">
@@ -92,18 +82,9 @@
 
 <div align="center">
 
-<img src="./milind-stats.svg?v=2"
-     alt="GitHub Stats"
-     height="185"/>
+<img src="./milind-stats.svg?v=2" alt="GitHub Stats" height="185"/>
 &nbsp;&nbsp;
-<img src="./milind-langs.svg?v=2"
-     alt="Top Languages"
-     height="185"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=MilindTajane143&theme=radical&hide_border=true&background=170e28&ring=ff4da6&fire=bf5af2&currStreakLabel=a78bfa&dates=8b949e"
-     alt="GitHub Streak"/>
+<img src="./milind-langs.svg?v=2" alt="Top Languages" height="185"/>
 
 </div>
 
@@ -113,7 +94,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MilindTajane143&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
+<img src="./milind-trophies.svg?v=2" alt="GitHub Trophies" width="95%"/>
 
 </div>
 
@@ -158,8 +139,7 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilindTajane143&bg_color=170e28&color=ff4da6&line=bf5af2&point=e040fb&area=true&area_color=bf5af2&hide_border=true&custom_title=Milind%20Kailas%20Tajane%27s%20Contribution%20Graph"
-     alt="Contribution Activity Graph"
-     width="95%"/>
+     alt="Contribution Activity Graph" width="95%"/>
 
 </div>
 
@@ -180,8 +160,6 @@
 
 Made with ❤️ by **Milind Tajane** &nbsp;|&nbsp; Last updated 2024
 
-<sub>
-Stats SVGs auto-refresh daily via GitHub Actions · Snake auto-updates daily · All animations use pure CSS/SMIL (no JS)
-</sub>
+<sub>Stats SVGs auto-refresh daily via GitHub Actions · Snake auto-updates daily · All animations use pure CSS/SMIL (no JS)</sub>
 
 </div>
