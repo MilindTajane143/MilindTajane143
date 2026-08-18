@@ -23,42 +23,45 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <rect x="1" y="1" width="498" height="230" rx="14" fill="#170e28" stroke="url(#tg)" stroke-width="1.5"/>
 <text x="24" y="38" font-size="16" font-weight="bold" fill="url(#tg)">📊 Milind Tajane's GitHub Stats</text>
 
-<g class="row" style="animation-delay:0.50s">
-  <text x="24" y="74" font-size="14">⭐</text>
-  <text x="52" y="74" font-size="13.5" fill="#c9d1d9">Total Stars Earned:</text>
-  <text x="316" y="74" text-anchor="end" font-size="14" font-weight="bold" fill="#fde047">128+</text>
-</g>
-<g class="row" style="animation-delay:0.72s">
-  <text x="24" y="105" font-size="14">💻</text>
-  <text x="52" y="105" font-size="13.5" fill="#c9d1d9">Total Commits (2024):</text>
-  <text x="316" y="105" text-anchor="end" font-size="14" font-weight="bold" fill="#7dd3fc">480+</text>
-</g>
-<g class="row" style="animation-delay:0.94s">
-  <text x="24" y="136" font-size="14">🔀</text>
-  <text x="52" y="136" font-size="13.5" fill="#c9d1d9">Total PRs:</text>
-  <text x="316" y="136" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">62</text>
-</g>
-<g class="row" style="animation-delay:1.16s">
-  <text x="24" y="167" font-size="14">📦</text>
-  <text x="52" y="167" font-size="13.5" fill="#c9d1d9">Public Repos:</text>
-  <text x="316" y="167" text-anchor="end" font-size="14" font-weight="bold" fill="#c084fc">18+</text>
-</g>
-<g class="row" style="animation-delay:1.38s">
-  <text x="24" y="198" font-size="14">⚡</text>
-  <text x="52" y="198" font-size="13.5" fill="#c9d1d9">Current Streak:</text>
-  <text x="316" y="198" text-anchor="end" font-size="14" font-weight="bold" fill="#ff4da6">21 days</text>
-</g>
-
+  <g class="row" style="animation-delay:0.50s">
+    <text x="24" y="74" font-size="14">⭐</text>
+    <text x="52" y="74" font-size="13.5" fill="#c9d1d9">Total Stars Earned:</text>
+    <text x="316" y="74" text-anchor="end" font-size="14" font-weight="bold" fill="#fde047">0</text>
+  </g>
+  <g class="row" style="animation-delay:0.72s">
+    <text x="24" y="105" font-size="14">💻</text>
+    <text x="52" y="105" font-size="13.5" fill="#c9d1d9">Total Commits (2024):</text>
+    <text x="316" y="105" text-anchor="end" font-size="14" font-weight="bold" fill="#7dd3fc">0</text>
+  </g>
+  <g class="row" style="animation-delay:0.94s">
+    <text x="24" y="136" font-size="14">🔀</text>
+    <text x="52" y="136" font-size="13.5" fill="#c9d1d9">Total PRs:</text>
+    <text x="316" y="136" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">0</text>
+  </g>
+  <g class="row" style="animation-delay:1.16s">
+    <text x="24" y="167" font-size="14">🐛</text>
+    <text x="52" y="167" font-size="13.5" fill="#c9d1d9">Total Issues Closed:</text>
+    <text x="316" y="167" text-anchor="end" font-size="14" font-weight="bold" fill="#fb923c">0</text>
+  </g>
+  <g class="row" style="animation-delay:1.38s">
+    <text x="24" y="198" font-size="14">📦</text>
+    <text x="52" y="198" font-size="13.5" fill="#c9d1d9">Public Repos:</text>
+    <text x="316" y="198" text-anchor="end" font-size="14" font-weight="bold" fill="#c084fc">17</text>
+  </g>
+  <g class="row" style="animation-delay:1.60s">
+    <text x="24" y="229" font-size="14">⚡</text>
+    <text x="52" y="229" font-size="13.5" fill="#c9d1d9">Total Contributions:</text>
+    <text x="316" y="229" text-anchor="end" font-size="14" font-weight="bold" fill="#ff4da6">0</text>
+  </g>
 <!-- Rank ring -->
-<g transform="translate(408,138)">
+<g transform="translate(422,138)">
   <circle r="52" fill="none" stroke="#241740" stroke-width="9"/>
   <circle r="52" fill="none" stroke="url(#ringg)" stroke-width="9" stroke-linecap="round"
-    stroke-dasharray="254.8 326.7" stroke-dashoffset="254.8" transform="rotate(-90)">
-    <animate attributeName="stroke-dashoffset" from="254.8" to="0" dur="1.6s" begin=".6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    stroke-dasharray="58.8 326.7" stroke-dashoffset="326.7" transform="rotate(-90)">
+    <animate attributeName="stroke-dashoffset" from="326.7" to="0" dur="1.6s" begin=".6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
   </circle>
-  <text class="rk" y="14" text-anchor="middle" font-size="40" font-weight="bold" fill="#ff4da6" filter="url(#g)">A+</text>
+  <text class="rk" y="14" text-anchor="middle" font-size="32" font-weight="bold" fill="#ff4da6" filter="url(#g)">C</text>
   <text y="76" text-anchor="middle" font-size="10.5" fill="#8b949e" opacity="0" style="animation:fadeIn .5s ease 1.8s forwards">RANK</text>
 </g>
-
 <g clip-path="url(#cc)"><rect class="sh" x="0" y="0" width="120" height="232" fill="url(#shg)"/></g>
 </svg>
