@@ -17,9 +17,6 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════
-     CONNECT BADGES
-════════════════════════════════════════════════════════════ -->
 [![GitHub](https://img.shields.io/badge/GitHub-MilindTajane143-ff4da6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MilindTajane143)
 [![Email](https://img.shields.io/badge/Email-milindtajane1%40gmail.com-bf5af2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milindtajane1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Milind%20Tajane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milindtajane)
@@ -93,10 +90,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- ⬇️  These 3 SVGs are AUTO-REGENERATED every day by the
-         "Update Dynamic Stats SVGs" GitHub Action.
-         They always show your real live numbers.          -->
-
 <div align="center">
 
 <img src="./milind-stats.svg?v=2"
@@ -109,7 +102,6 @@
 
 <br/><br/>
 
-<!-- Live streak card (external service, no rate limit issues) -->
 <img src="https://streak-stats.demolab.com?user=MilindTajane143&theme=radical&hide_border=true&background=170e28&ring=ff4da6&fire=bf5af2&currStreakLabel=a78bfa&dates=8b949e"
      alt="GitHub Streak"/>
 
@@ -119,11 +111,10 @@
 
 ## 🏆 GitHub Trophies
 
-<!-- ⬇️  Also auto-regenerated daily with real data -->
 <div align="center">
-<img src="./milind-trophies.svg?v=2"
-     alt="GitHub Trophies"
-     width="100%"/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=MilindTajane143&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
+
 </div>
 
 ---
