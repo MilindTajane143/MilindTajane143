@@ -17,7 +17,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <text x="96" y="52" text-anchor="middle" font-size="30">🚀</text>
     <text class="rk" x="168" y="40" text-anchor="end" font-size="24" font-weight="bold" fill="#ff4da6" style="animation-delay:0.70s">C</text>
     <text x="96" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Fullstack Dev</text>
-    <text x="96" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">React+Node x17</text>
+    <text x="96" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">React+Node x19</text>
     <rect x="30" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
     <rect x="30" y="124" width="0" height="5" rx="2.5" fill="#ff4da6">
       <animate attributeName="width" from="0" to="132" dur="1s" begin="0.70s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
@@ -72,7 +72,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <text x="996" y="52" text-anchor="middle" font-size="30">📦</text>
     <text class="rk" x="1068" y="40" text-anchor="end" font-size="24" font-weight="bold" fill="#4ade80" style="animation-delay:1.60s">B</text>
     <text x="996" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Creator</text>
-    <text x="996" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Repos 17+</text>
+    <text x="996" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Repos 19+</text>
     <rect x="930" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
     <rect x="930" y="124" width="0" height="5" rx="2.5" fill="#4ade80">
       <animate attributeName="width" from="0" to="132" dur="1s" begin="1.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
